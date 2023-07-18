@@ -4,4 +4,4 @@ This changes are made in feature branch 1.
 
 
 
-These changes are made in feature branch 2.
+Now changes have been made in feature branch 2.
